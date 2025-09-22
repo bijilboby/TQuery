@@ -1,4 +1,4 @@
-# 🟡 TQuery: AI-Powered T-Shirt Inventory Assistant
+# 👕 TQuery: AI-Powered T-Shirt Inventory Assistant
 
 **TQuery** is an intelligent conversational assistant that allows non-technical users to interact with a MySQL t-shirt inventory database using natural language. Built with **Google Gemini 2.5-flash**, **LangChain**, **FastAPI**, and **React**, the system translates user queries into SQL, executes them on a live database, and returns beautifully formatted responses.
 

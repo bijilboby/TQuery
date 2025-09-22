@@ -8,7 +8,7 @@ from langchain_experimental.sql import SQLDatabaseChain
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.utilities import SQLDatabase
 
-from backend.few_shots import few_shots
+from few_shots import few_shots
 
 # -------------------- Load Environment Variables --------------------
 load_dotenv()

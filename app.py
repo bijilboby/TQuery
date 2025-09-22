@@ -3,8 +3,8 @@
 import streamlit as st
 import requests
 
-st.set_page_config(page_title="👕 TQurery", layout="centered")
-st.title("👕 TQurery")
+st.set_page_config(page_title="👕 TQuery", layout="centered")
+st.title("👕 TQuery")
 
 query = st.text_input("Ask a question about your inventory:")
 
