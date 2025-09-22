@@ -6,13 +6,16 @@ Perfect for t-shirt store managers who need to quickly access inventory data wit
 
 ---
 
-## 📸 Project Screenshots
+## 🖥️ User Interface Overview
 
-> 🖼️ Add your frontend UI/UX images below.
+### 🏠 Home Page UI
+![HomePage](images/homepage.png)
 
-| Homepage UI | Query Output View | History View |
-|-------------|------------------|------------------|
-| ![Home Page](images/homepage.png) | ![Results](images/results.png) |![History](images/history.png) |
+### 🏠 Query Output View
+![Result](images/results.png)
+
+### 🏠 History
+![History](images/history.png)
 
 ---
 
