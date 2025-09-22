@@ -1,0 +1,32 @@
+# LangChain and related packages - Updated to compatible versions
+langchain>=0.3.0
+langchain-experimental>=0.3.0
+langchain-community>=0.3.0
+langchain-huggingface>=0.3.0
+langchain-google-genai>=2.1.0
+
+# Database drivers
+mysql-connector-python>=8.0.0
+pymysql>=1.0.0
+
+# Streamlit for frontend
+streamlit>=1.30.0
+
+# FastAPI backend (optional - only if needed)
+fastapi>=0.100.0
+uvicorn[standard]>=0.20.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Vector embeddings and storage
+sentence-transformers>=2.2.0
+chromadb>=1.0.0
+
+# HTTP client
+requests>=2.31.0
+
+# Additional utilities
+protobuf>=4.20.0
+tiktoken>=0.5.0
+faiss-cpu>=1.7.0
