@@ -17,6 +17,9 @@ Perfect for t-shirt store managers who need to quickly access inventory data wit
 ### 🏠 History
 ![History](images/history.png)
 
+### 🏠 Alternative Streamlit UI
+![Streamlit UI ](images/streamlit.png)
+
 ---
 
 ## 🏗️ Tech Stack
